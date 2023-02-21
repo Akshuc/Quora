@@ -50,7 +50,7 @@ function Login() {
           <p style={{ color: "royalblue", fontSize: "25px" }}>
             HandCrafted with ❤️ by{" "}
           </p>
-          <h3>Code With Yash Jaiswal</h3>
+          <h3>Code With Akash Singh</h3>
         </div>
         <div className="login__auth">
           <div className="login__authOptions">
